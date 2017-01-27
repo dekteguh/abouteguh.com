@@ -4,7 +4,7 @@ date:   2017-01-01 06:00:00
 categories: [welcome]
 tags: [welcome,resolusi]
 ---
-Selamat datang kembali di blog saya, `AbouTeguh`.
+Selamat datang kembali di blog saya, [AbouTeguh][abouteguh].
 
 Blog ini akan berisi sesuai dengan tagline utama saya, `belajar dan berinovasi`. Harapan saya ke depan (bahasa kerennya, RESOLUSI) adalah ingin lebih aktif lagi dalam menulis, minimal di blog saya sendiri, kemudian belajar hal-hal baru (Software Development) dan juga berinovasi agar ilmu yang saya pelajari tidak luntur dan hilang.
 
@@ -23,6 +23,7 @@ println("Selamat belajar dan berinovasi");
 
 Eko Teguh Widodo
 
+[abouteguh]: http://abouteguh.com
 [jekyll]: http://jekyllrb.com
 [markdown]: https://en.wikipedia.org/wiki/Markdown
 [joshgerdes]: http://joshgerdes.com

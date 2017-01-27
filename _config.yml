@@ -3,6 +3,8 @@ title: AbouTeguh
 description: 'AbouTeguh - belajar dan berinovasi'
 url: 'http://abouteguh.com'
 baseurl: '/'
+port:    4000
+host:    127.0.0.1
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
